@@ -1,7 +1,13 @@
 <a href="https://www.linkedin.com/in/tyler-kleffer-7a4861231/">TYLER KLEFFER</a>'s IT and Cybersecurity Project Portfolio 🔐
 
+I'm a cybersecurity professional transitioning from a 10-year career in automotive technology into information security. I enjoy solving technical problems, understanding how systems can be compromised, and finding practical ways to improve security.
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+My current focus is on **vulnerability management, security operations, threat hunting, and automation**. I've worked with tools including **Tenable, Microsoft Defender, Microsoft Sentinel, Azure, and KQL**, while using **PowerShell and Bash** to automate security tasks and remediate vulnerabilities.
+
+This GitHub serves as a portfolio of my hands-on cybersecurity work, including vulnerability remediation scripts, threat-hunting investigations, and security projects built around real-world scenarios.
+
+I'm continuing to expand my skills through hands-on projects, professional experience, and my cybersecurity degree, with the goal of building a career in security operations and defensive cybersecurity.
+Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
