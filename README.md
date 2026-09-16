@@ -21,6 +21,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 -  **[Threat Hunting Scenario: JadePuffer: The Autonomous Adversary)](https://github.com/Kleffer24/JADEPUFFER-Autonomous-Ransomware)**
 -  **[Threat Hunting Scenario: Suspected Data Exfiltration)](https://github.com/Kleffer24/Threat-Hunt-Scenario-Suspected-Data-Exfiltration)**
 -   **[Threat Hunting Scenario: Sudden Network Slowdowns)](https://github.com/Kleffer24/Threat-Hunt-Scenario-Sudden-Network-Slowdowns/blob/main/README.md)**
+-    **[Threat Hunting Scenario: Devices Accidentally Exposed to the Internet)](https://github.com/Kleffer24/Threat-Hunt-Scenario-Devices-Accidentally-Exposed-to-the-Internet)**
 
 <hr/>
 
