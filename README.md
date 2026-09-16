@@ -18,6 +18,7 @@ Please feel free to check them out and see the work I’ve put into enhancing se
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Kleffer24/Threat-Hunting-Scenario-TOR-)**
+-  **[Threat Hunting Scenario: JadePuffer: The Autonomous Adversary)](https://github.com/Kleffer24/JADEPUFFER-Autonomous-Ransomware)**
 
 <hr/>
 
